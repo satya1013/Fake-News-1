@@ -1,2 +1,2 @@
 # Fake-News
-B.Tech Final Year Project on Fake News Detection (IIIT-R)
+![1](https://github.com/prskid1000/EvoSim/blob/main/1.png?raw=true)
