@@ -14,9 +14,9 @@ Machine Learning models used:
   3. RNN with attention 
   4. Transfrmer model- XLM-ROBERTA
 ## Model Comparison 
-The first experiment wiht reccurrent nneural network gives accuracy around 0.85.later,all the models tried did increase the efficiency and we ended up having our beest result of 0.94 with transformer model
+The first experiment wiht reccurrent neural network gives accuracy around 0.85.later,all the models tried, did increase the efficiency and we ended up having our beest result of 0.94 with transformer model
 ## Limitations
-Best modelTransformmer can only detect 94% of default.
+Best model Transformmer can only detect 94% of default.
 Models seem to be suffering with slight overfitting
 Used only 30,000 records.
 ## Future Work
