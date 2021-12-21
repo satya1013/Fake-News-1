@@ -8,6 +8,7 @@ The dataset is downloaded from kaggle which is used in a fake-news-detectin comp
 The analysis consists of two stages:
    - Exploratory Data Analysis. The detailed notebook is found in notebooks folder
    - Machine Learning Modeling. The detailed notebook is found in notebooks folder
+
 Machine Learning models used:
   1. RNN
   2. RNN-CNN
